@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number">
+  <a href="https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number">
     <img src="./images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     Engage in a thrilling guessing game at GuessMaster, where you compete to guess a random number with the fewest tries and claim the top spot!
     <br />
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ujjwalgarg100204.github.io/Vanilla-JS-Guess-My-Number">View Demo</a>
+    <a href="https://gargujjwal.github.io/Vanilla-JS-Guess-My-Number">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,15 +62,15 @@ Welcome to GuessMaster, a captivating responsive website powered by Vanilla JS. 
 #### Mobile Design
 
 <p align="center">
-	<img src="./images/mobile-view.gif" alt="mobile view" height="500" /> 
+ <img src="./images/mobile-view.gif" alt="mobile view" height="500" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
--   [![CSS3][css3-shield]][css3-url]
--   [![JavaScript][js-sheild]][javascript-url]
+- [![CSS3][css3-shield]][css3-url]
+- [![JavaScript][js-sheild]][javascript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,29 +101,29 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number](https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Vanilla-JS-Guess-My-Number](https://ujjwalgarg100204.github.io/Vanilla-JS-Guess-My-Number)
+- Repo URL: [https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number](https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number)
+- Live Site URL: [https://gargujjwal.github.io/Vanilla-JS-Guess-My-Number](https://gargujjwal.github.io/Vanilla-JS-Guess-My-Number)
 
 <!-- AUTHOR -->
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
--   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
+- Website - [Ujjwal Garg](https://ujjwal-new-portfolio.vercel.app/)
+- Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+- LinkedIn - [@gargujjwal](https://www.linkedin.com/in/gargujjwal04/)
+- Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/Vanilla-JS-Guess-My-Number.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number/stargazers
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/Vanilla-JS-Guess-My-Number.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Guess-My-Number/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/Vanilla-JS-Guess-My-Number.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number/stargazers
+[license-shield]: https://img.shields.io/github/license/gargujjwal/Vanilla-JS-Guess-My-Number.svg?style=for-the-badge
+[license-url]: https://github.com/gargujjwal/Vanilla-JS-Guess-My-Number/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
+[linkedin-url]: https://www.linkedin.com/in/gargujjwal04
 [css3-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [css3-url]: https://www.tutorialspoint.com/css/css3_tutorial.htm
 [js-sheild]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
